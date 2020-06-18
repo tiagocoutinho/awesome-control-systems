@@ -16,16 +16,18 @@ Leveraging the balance is only possible with your help. PRs are most welome. The
 
 * [General purpose control systems](#general-purpose-control-systems)
 * [Orchestrators](#orchestrators)
-* [Detector libraries](#detector-libraries)
+* [Detectors](#detectors)
 
 
 ***
 
 ## General purpose control systems
 
-* [Epics](https://epics.anl.gov/)
-* [Karabo](https://in.xfel.eu/readthedocs/docs/karabo/en/latest/index.html)
-* [Tango](https://tango-controls.org)
+* [Epics](https://epics.anl.gov/) - a set of Open Source software tools, libraries and applications developed collaboratively and used worldwide to create distributed soft real-time control systems for scientific instruments such as a particle accelerators, telescopes and other large scientific experiments.
+* [Karabo](https://in.xfel.eu/readthedocs/docs/karabo/en/latest/index.html) -
+* [NICOS](https://nicos-controls.org/) - a network-based control system written for neutron scattering instruments, originally at the MLZ. Its main goals are flexibility, ease of use and maintenance, and reusability.
+* [Tango](https://tango-controls.org) - a free open source device-oriented toolkit for controlling any kind of hardware or software and building SCADA (supervisory control and data acquisition) system
+* [Unicos](https://unicos.web.cern.ch/) - a CERN-made framework to develop industrial control applications. It deals with the two upper layers of a classical control system: Supervision and Control
 
 
 ## Orchestrators
