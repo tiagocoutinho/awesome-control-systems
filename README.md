@@ -1,12 +1,16 @@
 # Awesome control systems
 
+<div align="center">
+  <img width="300" src="https://github.com/sindresorhus/awesome/blob/main/media/logo.svg" alt="awesome" />
+</div>
+
 A curated list of awesome control systems resources.
 
-![awesome](https://github.com/sindresorhus/awesome/blob/main/media/logo.svg)
+Control systems are everywhere: from small university labs to big facilites like particle accelerators, light, neutron and laser sources, telescopes, space stations, factories.
 
-PRs are very much welcome.
+The list is starting as a biased, limited view of the control system landscape.
 
-The lists are alphabetically ordered. Please respect that order in your PRs.
+Leveraging the balance is only possible with your help. PRs are most welome. The lists are alphabetically ordered. Please respect that order in your PRs.
 
 ## Contents
 
