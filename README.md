@@ -51,5 +51,8 @@ Leveraging the balance is only possible with your help. PRs are most welome. The
   commonly used functionalities for building applications that communicate with scientific instruments.
   as a glue language to wrap existing drivers and DLLs.
 * [PyNTA](https://python-nta.rtfd.io) - Particle tracking instrumentation and analysis in Python
+* [PYME](https://python-microscopy.org/) - PYthon Microscopy Environment. Image acquisition and data 
+  analysis functionality for a number of microscopy applications, with a particular emphasis on single
+  molecule localisation microscopy (PALM/STORM/PAINT)
 * [storm-control](https://github.com/ZhuangLab/storm-control) - Zhuang lab control system
 * [UUTrack](https://uutrack.rtfd.io) - A powerful interface for scientific cameras and instruments
