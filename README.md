@@ -47,10 +47,8 @@ Leveraging the balance is only possible with your help. PRs are most welome. The
 
 ## Instrumentation/Laboratory libraries/frameworks
 
-* [Lantz](https://lantz.rtfd.io) - Lantz is an automation and instrumentation toolkit with a clean, 
-  well-designed and consistent interface. It provides a core of commonly used functionalities for 
-  building applications that communicate with scientific instruments allowing rapid application
-  prototyping, development and testing. Lantz benefits from Python’s extensive library flexibility
+* [Lantz](https://lantz.rtfd.io) - an automation and instrumentation toolkit. Provides a core with
+  commonly used functionalities for building applications that communicate with scientific instruments.
   as a glue language to wrap existing drivers and DLLs.
 * [PyNTA](https://python-nta.rtfd.io) - Particle tracking instrumentation and analysis in Python
 * [storm-control](https://github.com/ZhuangLab/storm-control) - Zhuang lab control system
