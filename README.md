@@ -17,7 +17,7 @@ Leveraging the balance is only possible with your help. PRs are most welome. The
 * [General purpose control systems](#general-purpose-control-systems)
 * [Orchestrators](#orchestrators)
 * [Detectors](#detectors)
-* [Instrumentation/Laboratory libraries/frameworks](#Instrumentation/Laboratory-libraries/frameworks)
+* [Instrumentation/Laboratory libraries/frameworks](#instrumentationLaboratory-librariesframeworks)
 
 ***
 
@@ -47,7 +47,7 @@ Leveraging the balance is only possible with your help. PRs are most welome. The
 
 ## Instrumentation/Laboratory libraries/frameworks
 
-* [Lantz](https://lantz.rtfd.io)) - Lantz is an automation and instrumentation toolkit with a clean, 
+* [Lantz](https://lantz.rtfd.io) - Lantz is an automation and instrumentation toolkit with a clean, 
   well-designed and consistent interface. It provides a core of commonly used functionalities for 
   building applications that communicate with scientific instruments allowing rapid application
   prototyping, development and testing. Lantz benefits from Python’s extensive library flexibility
