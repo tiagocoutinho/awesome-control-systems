@@ -50,6 +50,8 @@ Leveraging the balance is only possible with your help. PRs are most welome. The
 * [Lantz](https://lantz.rtfd.io) - an automation and instrumentation toolkit. Provides a core with
   commonly used functionalities for building applications that communicate with scientific instruments.
   as a glue language to wrap existing drivers and DLLs.
+* [PyExpLabSys](https://pyexplabsys.rtfd.io) - python code useful in experimental labs, such 
+  as equipment drivers, data logging and network data exchange components.
 * [PyNTA](https://python-nta.rtfd.io) - Particle tracking instrumentation and analysis in Python
 * [PYME](https://python-microscopy.org/) - PYthon Microscopy Environment. Image acquisition and data 
   analysis functionality for a number of microscopy applications, with a particular emphasis on single
