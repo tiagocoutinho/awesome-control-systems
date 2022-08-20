@@ -47,6 +47,7 @@ Leveraging the balance is only possible with your help. PRs are most welome. The
 
 ## Instrumentation/Laboratory libraries/frameworks
 
+* [Labscript](https://labscript.org) - Expressive composition of hardware-timed experiments.
 * [Lantz](https://lantz.rtfd.io) - an automation and instrumentation toolkit. Provides a core with
   commonly used functionalities for building applications that communicate with scientific instruments.
   as a glue language to wrap existing drivers and DLLs.
